@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+gem "passenger", ">= 5.0.25", require: "phusion_passenger/rack_handler"
+
 gem 'bootstrap-sass', '~> 3.3.6'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
