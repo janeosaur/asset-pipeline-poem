@@ -24,7 +24,7 @@ gem 'sdoc', group: :doc
 
 
 # Use sqlite database
-gem 'sqlite3', '~> 1.3.13'
+# gem 'sqlite3', '~> 1.3.13'
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
